@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-invitation/static/css/main.d9af6070.chunk.css",
+    "main.js": "/monsters-invitation/static/js/main.7d76730f.chunk.js",
+    "main.js.map": "/monsters-invitation/static/js/main.7d76730f.chunk.js.map",
+    "runtime-main.js": "/monsters-invitation/static/js/runtime-main.23222654.js",
+    "runtime-main.js.map": "/monsters-invitation/static/js/runtime-main.23222654.js.map",
+    "static/js/2.36c9d23e.chunk.js": "/monsters-invitation/static/js/2.36c9d23e.chunk.js",
+    "static/js/2.36c9d23e.chunk.js.map": "/monsters-invitation/static/js/2.36c9d23e.chunk.js.map",
+    "static/js/3.335bd9bf.chunk.js": "/monsters-invitation/static/js/3.335bd9bf.chunk.js",
+    "static/js/3.335bd9bf.chunk.js.map": "/monsters-invitation/static/js/3.335bd9bf.chunk.js.map",
+    "index.html": "/monsters-invitation/index.html",
+    "static/css/main.d9af6070.chunk.css.map": "/monsters-invitation/static/css/main.d9af6070.chunk.css.map",
+    "static/js/2.36c9d23e.chunk.js.LICENSE.txt": "/monsters-invitation/static/js/2.36c9d23e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23222654.js",
+    "static/js/2.36c9d23e.chunk.js",
+    "static/css/main.d9af6070.chunk.css",
+    "static/js/main.7d76730f.chunk.js"
+  ]
+}
